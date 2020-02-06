@@ -13,7 +13,16 @@ p{
 ul {
   line-height: -height:40px
 }
-
+.intro{
+  font-style: italic;
+}
+.author{
+  color:red;
+  font-size:12px;
+}
+p.author {
+  font-size: 12px;
+}
 
 
 
